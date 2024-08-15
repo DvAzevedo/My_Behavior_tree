@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<root>
+  <BehaviorTree>
+    <Sequence name="root">
+      <SayHello/>
+      <SayGoodbye/>
+    </Sequence>
+  </BehaviorTree>
+</root>
